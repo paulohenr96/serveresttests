@@ -1,0 +1,19 @@
+{
+  "name": "testes-no-k6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node scripts/run-test.js"
+  },
+  "keywords": [],
+  "author": "Paulo Henrique dos Santos",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "k6": "^0.0.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.0"
+  }
+}
