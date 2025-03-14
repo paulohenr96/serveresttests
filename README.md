@@ -1,19 +1,19 @@
 # Teste de Performance da API Serverest
-
+![alt text](image.png)
 
 ## Objetivo
-* Este projeto tem como objetivo realizar testes na API Serverest
+* Este projeto tem como objetivo realizar testes na API [Serverest](https://github.com/serverest/serverest)
 * Os testes de performance realizados são smoke, average, spike, soak, stress
 
 
 ## Ambiente
-* Para rodar este produto é necessário ter nodejs versão 20.15.0
+* Para rodar este produto é necessário ter [nodejs](https://nodejs.org/en) versão 20.15.0
 * Dentro do arquivo utils/constantes.js estão as configurações básicas da api como url,rotas e mensagens esperadas.
 
 
 ## Dependências
 
-* Antes de iniciar os testes é necessário garantir que a dependência k6 esteja instalada
+* Antes de iniciar os testes é necessário garantir que a dependência [K6](https://k6.io/open-source/) esteja instalada
 * Para instalação de dependências tem certeza que você está na pasta 'Testes no k6' e em seguida utilize o seguinte comando no terminal
 
 ```
